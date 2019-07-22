@@ -91,7 +91,9 @@ header{
  
 }
 #contai{
- 
+
+    padding-top: 100px;
+    margin-top: 50px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -105,7 +107,8 @@ header{
     text-align: center;
 }
 #data{
-
+    padding-top: 100px;
+    margin-top: 50px;
     margin: 0 auto;
-
+text-align: center;
 }
